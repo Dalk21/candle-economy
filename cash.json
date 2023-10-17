@@ -1,0 +1,16 @@
+{
+  "000000000000000000": {
+    "cash": 1000,
+    "jackpots": 1,
+    "timeWorkedFor": 301,
+    "successfulRobberies": 6,
+    "unsuccessfulRobberies": 0
+  },
+  "1111111111111111111": {
+    "cash": 50000,
+    "jackpots": 5,
+    "timeWorkedFor": 2500,
+    "successfulRobberies": 10,
+    "unsuccessfulRobberies": 5
+  }
+}
